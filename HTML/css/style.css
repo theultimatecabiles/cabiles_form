@@ -1,0 +1,48 @@
+body{
+    background: url('/photo/5153829.jpg');
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    margin-top: 10px;
+}
+label{
+    margin-top: 10px;
+    display: black;
+    margin-bottom: 10px;
+    width: 90px;
+    height: 390px;
+}
+button{
+    margin-top: 25px;
+    height: 25px;
+    width: 102px;
+    
+}
+input{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 20px;
+}
+#login{
+    background-color: whitesmoke;
+    opacity: 0.8;
+    padding:250px;
+    margin-top: -80px;  
+}
+#register{
+    background-color: whitesmoke;
+    opacity: 0.8;
+    padding:250px;
+    margin-top: -150px;
+}
+select{
+    width: 209px;
+}
+#rbutton{
+    margin-right: -80px;
+}
+    
+    
+
